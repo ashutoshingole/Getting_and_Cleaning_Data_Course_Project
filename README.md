@@ -1,9 +1,9 @@
 # Getting_and_Cleaning_Data_Course_Project
 ##This Directory contains Four files including this README.md file.
-CodeBook.md : This file contains the variables, the data, and any transformations or work that I have performed to clean up the data.
-README.md : This file which you are reading right now!
-run_analysis.R : It includes the actual "R" code of this project.
-average.txt : It is a text file containg the output of the project, which is nothing but the final tidy data set as asked to generate.
+a. CodeBook.md : This file contains the variables, the data, and any transformations or work that I have performed to clean up the data.
+b. README.md : This file which you are reading right now!
+c. run_analysis.R : It includes the actual "R" code of this project.
+d. average.txt : It is a text file containg the output of the project, which is nothing but the final tidy data set as asked to generate.
 ###The "R" code for this project is in "run_analysis.R" file. The code is divided in 5 parts and what each part does is mentioned below(We assume that all the required input data is already downloaded from the given link on course page and all that data is present in the same directory as the code file and also the data is unzipped).
 1. This part reads and merges the training data and test data as required.
 
