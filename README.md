@@ -1,15 +1,15 @@
 # Getting_and_Cleaning_Data_Course_Project
-##This Directory contains Four files including this README.md file.
-1. CodeBook.md : This file contains the variables, the data, and any transformations or work that I have performed to clean up the data.
+##This Directory contains Four files including this `README.md` file.
+1. `CodeBook.md` : This file contains the variables, the data, and any transformations or work that I have performed to clean up the data.
 
-2. README.md : This file which you are reading right now!
+2. `README.md` : This file which you are reading right now!
 
-3. run_analysis.R : It includes the actual "R" code of this project.
+3. `run_analysis.R` : It includes the actual `R` code of this project.
 
-4. average.txt : It is a text file containg the output of the project, which is nothing but the final tidy data set as asked to generate.
+4. `average.txt` : It is a text file containg the output of the project, which is nothing but the final tidy data set as asked to generate.
 
 
-### The "R" code for this project is in "run_analysis.R" file. The code is divided in 5 parts and what each part does is mentioned below(We assume that all the required input data is already downloaded from the given link on course page and all that data is present in the same directory as the code file and also the data is unzipped).
+### The `R` code for this project is in `run_analysis.R` file. The code is divided in 5 parts and what each part does is mentioned below(We assume that all the required input data is already downloaded from the given link on course page and all that data is present in the same directory as the code file and also the data is unzipped).
 1. This part reads and merges the training data and test data as required.
 
 2. This part extracts only the measurements on the mean and standard deviation for each measurement.
@@ -20,10 +20,10 @@
 
 5. This part creates an another, independent tidy data set with the average of each variable for each activity and each subject.
 
-###On completion of all the above steps, this code generates a text file (tidy data set) named "average.txt" which is our final output for this project.
+###On completion of all the above steps, this code generates a text file (tidy data set) named `average.txt` which is our final output for this project.
 
 
 ### Execution Instructions
 
-1. If you are using R, keep the "run_analysis.R" and all input data (unzipped) in your working directory. Use command source("run_analysis.R") in R terminal, it will execute the code and it will generate one output text file "average.txt".
-2. If you are using R_Studio, keep the "run_analysis.R" and all input data (unzipped) in your working directory. Import the "run_analysis.R" file in R_Studio and run it. It will generate one output text file "average.txt".
+1. If you are using R, keep the `run_analysis.R` and all input data (unzipped) in your working directory. Use command `source("run_analysis.R")` in R terminal, it will execute the code and it will generate one output text file `average.txt`.
+2. If you are using `R_Studio`, keep the `run_analysis.R` and all input data (unzipped) in your working directory. Import the `run_analysis.R` file in `R_Studio` and run it. It will generate one output text file `average.txt`.
