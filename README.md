@@ -21,3 +21,9 @@
 5. This part creates an another, independent tidy data set with the average of each variable for each activity and each subject.
 
 ###On completion of all the above steps, this code generates a text file (tidy data set) named "average.txt" which is our final output for this project.
+
+
+### Execution Instructions
+
+1. If you are using R, keep the "run_analysis.R" and all input data (unzipped) in your working directory. Use command source("run_analysis.R") in R terminal, it will execute the code and it will generate one output text file "average.txt".
+2. If you are using R_Studio, keep the "run_analysis.R" and all input data (unzipped) in your working directory. Import the "run_analysis.R" file in R_Studio and run it. It will generate one output text file "average.txt".
