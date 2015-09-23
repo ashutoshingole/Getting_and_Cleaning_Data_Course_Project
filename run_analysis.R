@@ -24,8 +24,8 @@ names(X_merge) <- feat[msf, 2]
 
 
 #3.
-activity <- read.table("activity_labels.txt")
-y_merge[, 1] <- activity[y_merge[, 1], 2]
+act <- read.table("activity_labels.txt")
+y_merge[, 1] <- act[y_merge[, 1], 2]
 names(y_merge) <- "activity"
 
 
