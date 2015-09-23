@@ -22,4 +22,4 @@ Variables used in the code are explained below.
 * Variable `act` is used to store the activity names and id's from `activity_lable.txt`.
 * Now we take activity names and their id's from `act` variable and apply them in the dataset.
 * Then at last we generate a new tidy dataset named `average.txt` with all the average measures for each subject and activity type.
-* We used `ddply()` function from `plyr`.
+* We used `ddply()` function from `plyr` package.
