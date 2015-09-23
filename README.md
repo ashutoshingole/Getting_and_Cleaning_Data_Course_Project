@@ -1,6 +1,6 @@
 # Getting_and_Cleaning_Data_Course_Project
 ##This Directory contains Four files including this README.md file.
-1. CODEBOOK.MD : This file contains the variables, the data, and any transformations or work that I have performed to clean up the data.
+1. CodeBook.md : This file contains the variables, the data, and any transformations or work that I have performed to clean up the data.
 
 2. README.md : This file which you are reading right now!
 
