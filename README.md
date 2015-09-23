@@ -1,8 +1,11 @@
 # Getting_and_Cleaning_Data_Course_Project
 ##This Directory contains Four files including this README.md file.
 1. CODEBOOK.MD : This file contains the variables, the data, and any transformations or work that I have performed to clean up the data.
+
 2. README.md : This file which you are reading right now!
+
 3. run_analysis.R : It includes the actual "R" code of this project.
+
 4. average.txt : It is a text file containg the output of the project, which is nothing but the final tidy data set as asked to generate.
 
 
