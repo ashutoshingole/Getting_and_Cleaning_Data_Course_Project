@@ -1,7 +1,7 @@
 ## This CodeBook explains the `R` code in `run_analysis.R` file and all variables and data in `average.txt` file.
 
 ### run_analysis.R
-This file contains the actual "R" code written for this project.
+This file contains the actual `R` code written for this project.
 
 1. This part reads and merges the training data and test data as required.
 
